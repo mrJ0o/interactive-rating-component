@@ -8,4 +8,4 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ### Links
 
 - Solution URL: https://github.com/mrJ0o/interactive-rating-component
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://mrj0o.github.io/interactive-rating-component/
